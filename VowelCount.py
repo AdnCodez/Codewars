@@ -14,4 +14,4 @@ def get_count(inputstr):
     return cnt
 
 
-print(get_count("abraocaodabra"))
+print(get_count("abraodabra"))
