@@ -1,6 +1,6 @@
 # Beta / Testing 1-2-3
 # Details
-# https://www.codewars.com/kata/testing-1-2-3
+#   https://www.codewars.com/kata/testing-1-2-3
 
 
 def number(lines):
