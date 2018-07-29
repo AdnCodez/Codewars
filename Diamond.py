@@ -1,7 +1,7 @@
 # 6 kyu / Give me a Diamond
 # Details
 #   You need to return a string that displays a diamond shape on the screen using asterisk ("*") characters.
-
+#   https://www.codewars.com/kata/give-me-a-diamond
 
 def diamond(n):
     if n % 2 != 0:
