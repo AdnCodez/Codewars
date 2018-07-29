@@ -1,7 +1,8 @@
 # 7 kyu / Most digits
 # Details
 #   Find the number with the most digits.
-# If two numbers in the argument array have the same number of digits, return the first one in the array.
+#   If two numbers in the argument array have the same number of digits, return the first one in the array.
+#   https://www.codewars.com/kata/most-digits
 
 
 def find_longest(data):
