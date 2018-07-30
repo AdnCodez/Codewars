@@ -1,6 +1,6 @@
 # 5 kyu / Base64 Encoding
 # Details:
-#   Create a function (Python, C#) that converts the value of the String to and from Base64 using the ASCII
+#   Create a function that converts the value of the String to and from Base64 using the ASCII
 #   character set.
 #   https://www.codewars.com/kata/base64-encoding
 
