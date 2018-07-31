@@ -1,5 +1,6 @@
 import itertools
 
+
 def next_bigger(n):
     try:
         ls = []
