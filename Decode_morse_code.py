@@ -3,7 +3,7 @@
 #   https://www.codewars.com/kata/decode-the-morse-code
 
 
-def decodeMorse(morse_code):
+def decode_morse(morse_code):
     MORSE_CODE = {
         '-.-.--': '!', '.-..-.': '"', '...-..-': '$', '.-...': '&',
         '.----.': '\'', '-.--.': '', '-.--.-': ',', '.-.-.': '+',
