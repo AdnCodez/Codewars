@@ -1,7 +1,7 @@
 # 8 kyu / Reversed Strings
 # Details
 #   Complete the solution so that it reverses the string value passed into it.
-# solution('world') # returns 'dlrow'
+#   solution('world') # returns 'dlrow'
 
 
 def solution(strng):
