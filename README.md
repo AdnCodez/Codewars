@@ -1,4 +1,4 @@
-# CodeWars Python Challenges
+# Codewars Python Challenges
 **T**his repository contains the solutions of some Codewars challenges, to look for the title of the challenge press **<Ctrl + f>**.
 
 <p align="center"> 
