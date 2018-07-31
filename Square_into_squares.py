@@ -1,6 +1,6 @@
 # 4 kyu / Square into Squares. Protect trees!
 # Details
-# https://www.codewars.com/kata/square-into-squares-protect-trees/train/python
+#   https://www.codewars.com/kata/square-into-squares-protect-trees/train/python
 
 
 def decompose(n):
